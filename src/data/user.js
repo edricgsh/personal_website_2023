@@ -1,82 +1,70 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
-		logo: "../logo.png",
+		title: "Edric's Personal Space",
+		name: "Edric Gan",
+		email: "edricgan.44@gmail.com",
+		logo: "astraunaut.jpg",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		twitter: "https://twitter.com/edricgansh",
+		github: "https://github.com/gun99-dev",
+		linkedin: "https://www.linkedin.com/in/siehuai/",
 		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Full-stack web developer",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I am a seasoned full-stack web developer with a proven track record in building highly scalable and robust web applications. Additionally, I offer professional software consulting services, specializing in digitalizing company operations to enhance efficiency. With my expertise, I can guide you in optimizing your business processes and leveraging technology to achieve streamlined operations.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
-		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+		title: "I’m Edric Gan. I based in Singapore, nice to meet you",
+		description: `As a creative software developer, I take pride in my work on various projects, particularly in the fintech industry. From building products from scratch to creating scalable systems for millions of users, these experiences have been instrumental in my growth. My blog is a platform where I share insights and lessons learned, covering all aspects of the software development lifecycle. Join me on this journey of exploration and creativity as we delve into the exciting world of software engineering.`,
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "Beyond the code, sharing my ideas and thoughts with articles",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"Chronological collection of my long-form thoughts on topic related to software engineering and data science",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Open source contributor of Teammates",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"TEAMMATES is an online tool that facilitates effective management of peer evaluations and diverse feedback channels for students.",
+			logo: "teammates_resize.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/TEAMMATES/teammates",
 		},
 
 		{
-			title: "Project 2",
+			title: "Email Spam Detection with Machine Learning",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"I successfully developed a spam detection ML model using techniques like train-test split, data preprocessing, and feature extraction.",
+			logo: "mail_secure.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/gun99-dev/Email-Spam-Detection-Python/blob/master/Email%20Spamming%20(Medium%20Part%201).ipynb",
 		},
 
 		{
-			title: "Project 3",
+			title: "Email Spam Detection with Deep Learning",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"I further improve my email spam detection accuracy with deep learning, word embedding + Bidirectional Language Model",
+			logo: "email_detection_deep_learning.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/gun99-dev/Email-Spam-Detection-Python/blob/master/Email%20Spam%20(%20Medium%20Part%202).ipynb",
 		},
 
 		{
-			title: "Project 4",
+			title: "Singapore Flat Price Prediction",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Predict Singapore Flat Price based on a number of attributes. I build the machine learning model and a simple front end interface to deliver the prediction result",
+			logo: "hdb_second.jpeg",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/gun99-dev/Singapore-Flat-Price-Prediction",
 		},
 	],
 };
