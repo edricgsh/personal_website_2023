@@ -7,7 +7,7 @@ const INFO = {
 	},
 
 	socials: {
-		twitter: "https://twitter.com/edricgansh",
+		twitter: "https://twitter.com/edricgsh",
 		github: "https://github.com/gun99-dev",
 		linkedin: "https://www.linkedin.com/in/siehuai/",
 		stackoverflow: "https://stackoverflow.com/",
@@ -16,7 +16,7 @@ const INFO = {
 	homepage: {
 		title: "Full-stack web developer",
 		description:
-			"I am a seasoned full-stack web developer with a proven track record in building highly scalable and robust web applications. Additionally, I offer professional software consulting services, specializing in digitalizing company operations to enhance efficiency. With my expertise, I can guide you in optimizing your business processes and leveraging technology to achieve streamlined operations.",
+			"I am a seasoned full-stack web developer with a proven track record in building highly scalable and robust web applications. I also enjoy mentoring people and guide them along their software engineering journey. Additionally, I offer professional software consulting services, specializing in digitalizing company operations to enhance efficiency. With my expertise, I can guide you in optimizing your business processes and leveraging technology to achieve streamlined operations.",
 	},
 
 	about: {
