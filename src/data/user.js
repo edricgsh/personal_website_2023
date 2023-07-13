@@ -62,7 +62,7 @@ const INFO = {
 			title: "Singapore Flat Price Prediction",
 			description:
 				"Predict Singapore Flat Price based on a number of attributes. I build the machine learning model and a simple front end interface to deliver the prediction result",
-			logo: "hdb_second.jpeg",
+			logo: "hdb_second.jpg",
 			linkText: "View Project",
 			link: "https://github.com/gun99-dev/Singapore-Flat-Price-Prediction",
 		},
