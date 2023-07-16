@@ -1,5 +1,12 @@
-
 const myArticles = [
+	{
+		date: "16 Jul 2023",
+		title: "Unlocking the Power of Productivity: My Favourite Framework for Maximum Efficiency",
+		description:
+			"Efficiency and productivity have been my lifelong passions. In this article, I'll share my top favorite tips for optimizing workflow and staying ahead in life",
+		keywords: ["Pomodoro", "Productivity", "OKR", "Readwise"],
+		link: "https://medium.com/@edricgsh/unlocking-the-power-of-productivity-my-favourite-framework-for-maximum-efficiency-98617c38b486",
+	},
 	{
 		date: "3 Jun 2019",
 		title: "Singapore Flat Price Predictor",

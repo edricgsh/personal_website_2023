@@ -27,7 +27,7 @@ const INFO = {
 	articles: {
 		title: "Beyond the code, sharing my ideas and thoughts with articles",
 		description:
-			"Chronological collection of my long-form thoughts on topic related to software engineering and data science",
+			"Chronological collection of my long-form thoughts on topic related to software engineering, productivity and data science",
 	},
 
 	projects: [
