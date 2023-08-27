@@ -3,7 +3,7 @@ const INFO = {
 		title: "Edric's Personal Space",
 		name: "Edric Gan",
 		email: "edricgan.44@gmail.com",
-		logo: "astraunaut.jpg",
+		logo: "profile_pic.jpg",
 	},
 
 	socials: {
