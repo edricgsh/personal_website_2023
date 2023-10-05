@@ -1,5 +1,26 @@
 const myArticles = [
 	{
+		date: "26 Sept 2023",
+		title: "Navigating Tech Job Interviews in a Competitive Job Market: Strategies and Resources",
+		description:
+			"Navigating a job interview in the tech industry can be very challenging. In this article, I'll be sharing some valuable tips and study materials that I find helpful for my interview preparation.",
+		keywords: [
+			"Job Search",
+			"Tech Interview",
+			"Backend Engineering Interview",
+			"Tips and Resources",
+		],
+		link: "https://edricgsh.substack.com/p/navigating-tech-job-interviews-in",
+	},
+	{
+		date: "27 Aug 2023",
+		title: "My Path to Securing Tech Jobs in 2023 (And How You Can Too!)",
+		description:
+			"The job search process can prove challenging at times, and I personally experienced this firsthand in 2023. Hopefully, you can gain some inspirations after reading my stories.",
+		keywords: ["Job Search", "Tech Interview"],
+		link: "https://edricgsh.substack.com/p/my-path-to-securing-tech-jobs-2023",
+	},
+	{
 		date: "16 Jul 2023",
 		title: "Unlocking the Power of Productivity: My Favourite Framework for Maximum Efficiency",
 		description:
