@@ -30,7 +30,7 @@
 	"homepage": "https://edricgsh.github.io/personal_website_2023",
 	"scripts": {
 		"start": "react-scripts start",
-		"build": "GENERATE_SOURCEMAP=false react-scripts build",
+		"build": "PUBLIC_URL=/portfolio GENERATE_SOURCEMAP=false react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject",
 		"predeploy": "npm run build",
