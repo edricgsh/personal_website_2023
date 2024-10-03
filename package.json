@@ -27,7 +27,7 @@
 		"styled-components": "^5.3.10",
 		"web-vitals": "^2.1.4"
 	},
-	"homepage": "https://edricgsh.github.io/personal_website_2023",
+	"homepage": "https://edricgsh.github.io",
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "GENERATE_SOURCEMAP=false react-scripts build",
