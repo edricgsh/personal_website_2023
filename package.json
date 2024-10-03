@@ -27,11 +27,14 @@
 		"styled-components": "^5.3.10",
 		"web-vitals": "^2.1.4"
 	},
+	"homepage": "https://edricgsh.github.io/personal_website_2023",
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "GENERATE_SOURCEMAP=false react-scripts build",
 		"test": "react-scripts test",
-		"eject": "react-scripts eject"
+		"eject": "react-scripts eject",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build"
 	},
 	"eslintConfig": {
 		"extends": [
@@ -56,6 +59,7 @@
 		"tabWidth": 4
 	},
 	"devDependencies": {
+		"gh-pages": "^6.1.1",
 		"webpack": "^5.88.2",
 		"webpack-cli": "^5.1.4",
 		"webpack-dev-server": "^4.15.1"
