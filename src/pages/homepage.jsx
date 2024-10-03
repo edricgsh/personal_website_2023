@@ -99,7 +99,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="color-bulb-small.jpg"
+											src="/portfolio/color-bulb-small.jpg"
 											alt="about"
 											className="homepage-image"
 										/>
